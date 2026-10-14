@@ -1,0 +1,11 @@
+note_id,expected_effect,window_start,window_end,why
+N001,increase,2025-02-24,2025-03-08,flood explicitly raised trip costs Feb 24 - Mar 8
+N002,increase,2025-01-20,2025-01-26,festival-week surcharge on Ahmedabad-Mumbai
+N003,increase,2025-05-05,,diesel up 5-7% on all routes from this week (open-ended)
+N004,no_effect,,,affected routes are not part of this dataset
+N005,no_effect,,,costs were not significantly affected
+N006,no_effect,,,demand stable; no disruptions
+N007,decrease,,,road conditions improved
+N008,no_effect,,,no disruptions; movement normal
+N009,no_effect,,,route returned to normal (end of flood) - not a cause of higher cost
+N010,no_effect,,,compliance cost absorbed without a rate change

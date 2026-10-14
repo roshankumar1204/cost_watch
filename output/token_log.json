@@ -1,0 +1,24 @@
+{
+  "model": "openai/gpt-oss-120b",
+  "llm_calls": 29,
+  "input_tokens": 10725,
+  "output_tokens": 3253,
+  "price_usd_per_1M": {
+    "input": 0.15,
+    "output": 0.6
+  },
+  "estimated_cost_usd_at_published_rate": 0.003561,
+  "actual_cost_on_free_tier_usd": 0.0,
+  "by_purpose": {
+    "read_note": {
+      "calls": 10,
+      "input_tokens": 4136,
+      "output_tokens": 1454
+    },
+    "write_reason": {
+      "calls": 19,
+      "input_tokens": 6589,
+      "output_tokens": 1799
+    }
+  }
+}
