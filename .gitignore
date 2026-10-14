@@ -2,4 +2,4 @@
 .venv/
 __pycache__/
 cache/
-output/repro/
+output/repro/run_*/
